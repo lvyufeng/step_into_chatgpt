@@ -6,9 +6,11 @@
 
 ## GPT2
 
-## Prompt
+## MindSpore Auto Parallel
 
-## CodeX
+## Code Pretrain
+
+## Prompt
 
 ## Instruct Tuning
 
